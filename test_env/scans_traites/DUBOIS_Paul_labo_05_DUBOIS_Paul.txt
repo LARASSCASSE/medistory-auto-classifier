@@ -1,0 +1,29 @@
+
+            LABORATOIRE D'ANALYSES MÉDICALES
+
+BioMéd Paris - 45 Avenue de la République, 75011 Paris
+Tél: 01 98 76 54 32 - Email: contact@biomed-paris.fr
+
+Patient: DUBOIS Paul
+
+Date de prélèvement: 22/10/2025
+Date de résultat: 23/10/2025
+Prescripteur: Dr. MERCIER
+
+────────────────────────────────────────────────────────────
+
+                RÉSULTATS D'ANALYSES
+
+Examen                      Résultat    Valeurs ref.    Unité
+──────────────────────────────────────────────────────────────
+Glycémie                  0.95       0.70 - 1.10     g/L
+HDL Cholestérol           0.52       > 0.40          g/L
+Cholestérol total         1.85       < 2.00          g/L
+LDL Cholestérol           1.15       < 1.60          g/L
+Créatininémie             9.5        7.0 - 13.0      mg/L
+Triglycérides             0.98       < 1.50          g/L
+TSH                       2.1        0.4 - 4.0       mUI/L
+
+
+Document validé électroniquement
+Dr. BIOTECH - Biologiste responsable

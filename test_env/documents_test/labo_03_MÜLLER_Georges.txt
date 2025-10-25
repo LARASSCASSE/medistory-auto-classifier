@@ -1,0 +1,27 @@
+
+            LABORATOIRE D'ANALYSES MÉDICALES
+
+BioMéd Paris - 45 Avenue de la République, 75011 Paris
+Tél: 01 98 76 54 32 - Email: contact@biomed-paris.fr
+
+Patient: MÜLLER Georges
+
+Date de prélèvement: 25/10/2025
+Date de résultat: 26/10/2025
+Prescripteur: Dr. FAURE
+
+────────────────────────────────────────────────────────────
+
+                RÉSULTATS D'ANALYSES
+
+Examen                      Résultat    Valeurs ref.    Unité
+──────────────────────────────────────────────────────────────
+LDL Cholestérol           1.15       < 1.60          g/L
+TSH                       2.1        0.4 - 4.0       mUI/L
+HDL Cholestérol           0.52       > 0.40          g/L
+Triglycérides             0.98       < 1.50          g/L
+Cholestérol total         1.85       < 2.00          g/L
+
+
+Document validé électroniquement
+Dr. BIOTECH - Biologiste responsable

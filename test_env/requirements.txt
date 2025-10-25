@@ -1,0 +1,5 @@
+reportlab>=4.0.0
+pdf2image>=1.16.0
+pytesseract>=0.3.10
+watchdog>=3.0.0
+Pillow>=10.0.0

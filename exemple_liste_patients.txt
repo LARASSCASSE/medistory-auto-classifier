@@ -1,0 +1,27 @@
+# Fichier de liste des patients pour le système de classement automatique
+# Format: ID,NOM,PRENOM
+# 
+# IMPORTANT:
+# - Les noms doivent être en MAJUSCULES
+# - Les prénoms avec première lettre en majuscule
+# - Pas d'espace avant/après les virgules
+# - Une ligne par patient
+# - Les lignes commençant par # sont ignorées
+#
+# Exemple de format correct:
+# 1,DUPONT,Jean
+# 2,MARTIN,Marie
+# 3,BERNARD,Pierre
+#
+# Remplacez les exemples ci-dessous par vos vrais patients:
+
+1,DUPONT,Jean
+2,MARTIN,Marie
+3,BERNARD,Pierre
+4,DUBOIS,Sophie
+5,LEFEBVRE,Thomas
+6,MOREAU,Claire
+7,SIMON,Lucas
+8,LAURENT,Camille
+9,MICHEL,Antoine
+10,GARCIA,Emma

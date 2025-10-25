@@ -1,0 +1,28 @@
+Rapport de test Médistory - 2025-10-26 00:04:37.368829
+============================================================
+
+Total: 20
+Succès: 20 (100.0%)
+Échecs: 0
+
+Détails:
+  {'file': 'courrier_01_GARCIA_Sylvie.txt', 'status': 'success', 'patient': 'GARCIA Sylvie', 'confidence': 1.0}
+  {'file': 'courrier_02_MASSON_Yvette.txt', 'status': 'success', 'patient': 'MASSON Yvette', 'confidence': 1.0}
+  {'file': 'courrier_03_BERTRAND_Martine.txt', 'status': 'success', 'patient': 'BERTRAND Martine', 'confidence': 1.0}
+  {'file': 'courrier_04_THOMAS_Sophie.txt', 'status': 'success', 'patient': 'THOMAS Sophie', 'confidence': 1.0}
+  {'file': 'courrier_05_NICOLAS_Albert.txt', 'status': 'success', 'patient': 'NICOLAS Albert', 'confidence': 1.0}
+  {'file': 'labo_01_ROBERT_Luc.txt', 'status': 'success', 'patient': 'ROBERT Luc', 'confidence': 1.0}
+  {'file': 'labo_02_MARTINEZ_André.txt', 'status': 'success', 'patient': 'MARTINEZ André', 'confidence': 1.0}
+  {'file': 'labo_03_MÜLLER_Georges.txt', 'status': 'success', 'patient': 'MÜLLER Georges', 'confidence': 1.0}
+  {'file': 'labo_04_DUPONT_Jean.txt', 'status': 'success', 'patient': 'DUPONT Jean', 'confidence': 1.0}
+  {'file': 'labo_05_DUBOIS_Paul.txt', 'status': 'success', 'patient': 'DUBOIS Paul', 'confidence': 1.0}
+  {'file': 'ordonnance_01_BONNET_Bernard.txt', 'status': 'success', 'patient': 'BONNET Bernard', 'confidence': 1.0}
+  {'file': "ordonnance_02_O'BRIEN_Christine.txt", 'status': 'success', 'patient': "O'BRIEN Christine", 'confidence': 1.0}
+  {'file': 'ordonnance_03_DAVID_Olivier.txt', 'status': 'success', 'patient': 'DAVID Olivier', 'confidence': 1.0}
+  {'file': 'ordonnance_04_VINCENT_Véronique.txt', 'status': 'success', 'patient': 'VINCENT Véronique', 'confidence': 1.0}
+  {'file': 'ordonnance_05_GAUTIER_Charles.txt', 'status': 'success', 'patient': 'GAUTIER Charles', 'confidence': 1.0}
+  {'file': 'ordonnance_06_GAUTHIER_Odette.txt', 'status': 'success', 'patient': 'GAUTHIER Odette', 'confidence': 1.0}
+  {'file': 'ordonnance_07_ROBIN_Denise.txt', 'status': 'success', 'patient': 'ROBIN Denise', 'confidence': 1.0}
+  {'file': 'ordonnance_08_CLEMENT_Robert.txt', 'status': 'success', 'patient': 'CLEMENT Robert', 'confidence': 1.0}
+  {'file': 'ordonnance_09_FOURNIER_Patrick.txt', 'status': 'success', 'patient': 'FOURNIER Patrick', 'confidence': 1.0}
+  {'file': 'ordonnance_10_LAMBERT_Françoise.txt', 'status': 'success', 'patient': 'LAMBERT Françoise', 'confidence': 1.0}

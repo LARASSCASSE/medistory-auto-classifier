@@ -1,0 +1,16 @@
+# Dépendances pour le système de classement automatique Médistory
+# Installation: pip3 install -r requirements.txt
+
+# Surveillance de fichiers
+watchdog==3.0.0
+
+# OCR (Reconnaissance de caractères)
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# Traitement PDF
+pdf2image==1.16.3
+PyPDF2==3.0.1
+
+# Utilitaires
+python-dateutil==2.8.2

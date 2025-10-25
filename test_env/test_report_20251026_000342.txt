@@ -1,0 +1,28 @@
+Rapport de test Médistory - 2025-10-26 00:03:42.507464
+============================================================
+
+Total: 20
+Succès: 0 (0.0%)
+Échecs: 20
+
+Détails:
+  {'file': 'courrier_01_GARCIA_Sylvie.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'GARCIA Sylvie\n\nCher confrère'}
+  {'file': 'courrier_02_MASSON_Yvette.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'MASSON Yvette\n\nCher confrère'}
+  {'file': 'courrier_03_BERTRAND_Martine.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'BERTRAND Martine\n\nCher confrère'}
+  {'file': 'courrier_04_THOMAS_Sophie.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'THOMAS Sophie\n\nCher confrère'}
+  {'file': 'courrier_05_NICOLAS_Albert.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'NICOLAS Albert\n\nCher confrère'}
+  {'file': 'labo_01_ROBERT_Luc.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'ROBERT Luc\n\nDate de prélèvement'}
+  {'file': 'labo_02_MARTINEZ_André.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'MARTINEZ André\n\nDate de prélèvement'}
+  {'file': 'labo_03_MÜLLER_Georges.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'MÜLLER Georges\n\nDate de prélèvement'}
+  {'file': 'labo_04_DUPONT_Jean.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'DUPONT Jean\n\nDate de prélèvement'}
+  {'file': 'labo_05_DUBOIS_Paul.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'DUBOIS Paul\n\nDate de prélèvement'}
+  {'file': 'ordonnance_01_BONNET_Bernard.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'BONNET Bernard\n\nDate'}
+  {'file': "ordonnance_02_O'BRIEN_Christine.txt", 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'O'}
+  {'file': 'ordonnance_03_DAVID_Olivier.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'DAVID Olivier\n\nDate'}
+  {'file': 'ordonnance_04_VINCENT_Véronique.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'VINCENT Véronique\n\nDate'}
+  {'file': 'ordonnance_05_GAUTIER_Charles.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'GAUTIER Charles\n\nDate'}
+  {'file': 'ordonnance_06_GAUTHIER_Odette.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'GAUTHIER Odette\n\nDate'}
+  {'file': 'ordonnance_07_ROBIN_Denise.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'ROBIN Denise\n\nDate'}
+  {'file': 'ordonnance_08_CLEMENT_Robert.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'CLEMENT Robert\n\nDate'}
+  {'file': 'ordonnance_09_FOURNIER_Patrick.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'FOURNIER Patrick\n\nDate'}
+  {'file': 'ordonnance_10_LAMBERT_Françoise.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'LAMBERT Françoise\n\nDate'}

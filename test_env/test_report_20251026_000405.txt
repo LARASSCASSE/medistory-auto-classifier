@@ -1,0 +1,28 @@
+Rapport de test Médistory - 2025-10-26 00:04:05.396543
+============================================================
+
+Total: 20
+Succès: 9 (45.0%)
+Échecs: 11
+
+Détails:
+  {'file': 'courrier_01_GARCIA_Sylvie.txt', 'status': 'failed', 'reason': 'low_confidence', 'extracted_name': 'GARCIA Sylvie\n\nCher confrère'}
+  {'file': 'courrier_02_MASSON_Yvette.txt', 'status': 'failed', 'reason': 'low_confidence', 'extracted_name': 'MASSON Yvette\n\nCher confrère'}
+  {'file': 'courrier_03_BERTRAND_Martine.txt', 'status': 'failed', 'reason': 'low_confidence', 'extracted_name': 'BERTRAND Martine\n\nCher confrère'}
+  {'file': 'courrier_04_THOMAS_Sophie.txt', 'status': 'failed', 'reason': 'low_confidence', 'extracted_name': 'THOMAS Sophie\n\nCher confrère'}
+  {'file': 'courrier_05_NICOLAS_Albert.txt', 'status': 'failed', 'reason': 'low_confidence', 'extracted_name': 'NICOLAS Albert\n\nCher confrère'}
+  {'file': 'labo_01_ROBERT_Luc.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'ROBERT Luc\n\nDate de prélèvement'}
+  {'file': 'labo_02_MARTINEZ_André.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'MARTINEZ André\n\nDate de prélèvement'}
+  {'file': 'labo_03_MÜLLER_Georges.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'MÜLLER Georges\n\nDate de prélèvement'}
+  {'file': 'labo_04_DUPONT_Jean.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'DUPONT Jean\n\nDate de prélèvement'}
+  {'file': 'labo_05_DUBOIS_Paul.txt', 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'DUBOIS Paul\n\nDate de prélèvement'}
+  {'file': 'ordonnance_01_BONNET_Bernard.txt', 'status': 'success', 'patient': 'BONNET Bernard', 'confidence': 0.8235294117647058}
+  {'file': "ordonnance_02_O'BRIEN_Christine.txt", 'status': 'failed', 'reason': 'patient_not_found', 'extracted_name': 'O'}
+  {'file': 'ordonnance_03_DAVID_Olivier.txt', 'status': 'success', 'patient': 'DAVID Olivier', 'confidence': 0.8125}
+  {'file': 'ordonnance_04_VINCENT_Véronique.txt', 'status': 'success', 'patient': 'VINCENT Véronique', 'confidence': 0.85}
+  {'file': 'ordonnance_05_GAUTIER_Charles.txt', 'status': 'success', 'patient': 'GAUTIER Charles', 'confidence': 0.8333333333333334}
+  {'file': 'ordonnance_06_GAUTHIER_Odette.txt', 'status': 'success', 'patient': 'GAUTHIER Odette', 'confidence': 0.8333333333333334}
+  {'file': 'ordonnance_07_ROBIN_Denise.txt', 'status': 'success', 'patient': 'ROBIN Denise', 'confidence': 0.8}
+  {'file': 'ordonnance_08_CLEMENT_Robert.txt', 'status': 'success', 'patient': 'CLEMENT Robert', 'confidence': 0.8235294117647058}
+  {'file': 'ordonnance_09_FOURNIER_Patrick.txt', 'status': 'success', 'patient': 'FOURNIER Patrick', 'confidence': 0.8421052631578947}
+  {'file': 'ordonnance_10_LAMBERT_Françoise.txt', 'status': 'success', 'patient': 'LAMBERT Françoise', 'confidence': 0.85}

@@ -1,0 +1,27 @@
+
+            LABORATOIRE D'ANALYSES MÉDICALES
+
+BioMéd Paris - 45 Avenue de la République, 75011 Paris
+Tél: 01 98 76 54 32 - Email: contact@biomed-paris.fr
+
+Patient: MARTINEZ André
+
+Date de prélèvement: 21/10/2025
+Date de résultat: 22/10/2025
+Prescripteur: Dr. CHEVALIER
+
+────────────────────────────────────────────────────────────
+
+                RÉSULTATS D'ANALYSES
+
+Examen                      Résultat    Valeurs ref.    Unité
+──────────────────────────────────────────────────────────────
+Glycémie                  0.95       0.70 - 1.10     g/L
+TSH                       2.1        0.4 - 4.0       mUI/L
+LDL Cholestérol           1.15       < 1.60          g/L
+Triglycérides             0.98       < 1.50          g/L
+Créatininémie             9.5        7.0 - 13.0      mg/L
+
+
+Document validé électroniquement
+Dr. BIOTECH - Biologiste responsable
